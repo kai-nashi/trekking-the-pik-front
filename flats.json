@@ -2311,6 +2311,12 @@
                 "key": "status",
                 "value": "free",
                 "value_new": "reserve"
+            },
+            {
+                "created_at": "2023-12-09T13:23:36.656581",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "sold"
             }
         ],
         "block_id": 1724,
@@ -2321,7 +2327,7 @@
         "floor": 4,
         "price": 8561918.0,
         "rooms": -1,
-        "status": "reserve"
+        "status": "sold"
     },
     {
         "id": 792121,
@@ -4174,7 +4180,14 @@
     {
         "id": 792149,
         "area": 24.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-09T13:23:36.656734",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "sold"
+            }
+        ],
         "block_id": 1724,
         "block_name": "Аэронавт",
         "block_slug": "aeronaut",
@@ -4183,7 +4196,7 @@
         "floor": 11,
         "price": 8081428.0,
         "rooms": -1,
-        "status": "reserve"
+        "status": "sold"
     },
     {
         "id": 790290,
@@ -8731,7 +8744,14 @@
     {
         "id": 892269,
         "area": 25.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-09T13:23:36.656671",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "sold"
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
@@ -8740,7 +8760,7 @@
         "floor": 4,
         "price": 7444435.0,
         "rooms": -1,
-        "status": "reserve"
+        "status": "sold"
     },
     {
         "id": 787956,
@@ -8780,7 +8800,14 @@
     {
         "id": 892378,
         "area": 32.5,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-09T13:23:36.654964",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "free"
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
@@ -8789,7 +8816,7 @@
         "floor": 11,
         "price": 9678240.0,
         "rooms": 1,
-        "status": "reserve"
+        "status": "free"
     },
     {
         "id": 901970,
