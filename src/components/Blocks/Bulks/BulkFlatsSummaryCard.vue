@@ -50,11 +50,15 @@ const chartFlatsColors: Record<keyof typeof FLATS_NAME_BY_ROOMS_COUNT, Record<'b
   }
 }
 
-const flatPricesChartOptions = {
+const baseChartOptions = {
   interaction: {
     intersect: false,
     mode: 'index',
-  },
+  }
+}
+
+const flatPricesChartOptions = {
+  ...baseChartOptions,
   plugins: {
     legend: {
       labels: {
@@ -203,6 +207,7 @@ const flatsSellingChart = computed(() => {
           <VExpansionPanelText>
             <Chart
               :data="flatsSellingChart"
+              :options="baseChartOptions"
               type="line"
             ></Chart>
           </VExpansionPanelText>
