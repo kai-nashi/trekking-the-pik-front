@@ -6392,7 +6392,14 @@
     {
         "id": 787928,
         "area": 58.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-11T01:20:16.241948",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
@@ -6401,7 +6408,7 @@
         "floor": 11,
         "price": 15003475.0,
         "rooms": 2,
-        "status": "free"
+        "status": "reserve"
     },
     {
         "id": 788274,
