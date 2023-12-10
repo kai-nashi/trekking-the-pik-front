@@ -12,7 +12,7 @@ const pik = usePikStore()
 onMounted(async () => {
   pik.isLoading = true
 
-  const response = await fetch("/flats.json");
+  const response = await fetch(import.meta.env.BASE_URL + 'flats.json');
   const flats = await response.json();
   pik.update(flats)
 
