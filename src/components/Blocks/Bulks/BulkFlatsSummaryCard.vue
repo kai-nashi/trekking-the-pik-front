@@ -53,7 +53,7 @@ const chartFlatsColors: Record<keyof typeof FLATS_NAME_BY_ROOMS_COUNT, Record<'b
 const baseChartOptions = {
   interaction: {
     intersect: false,
-    mode: 'x' as keyof InteractionModeMap // why typescript show error on Chart for option property without type asserting?
+    mode: 'index' as keyof InteractionModeMap // why typescript show error on Chart for option property without type asserting?
   }
 }
 
