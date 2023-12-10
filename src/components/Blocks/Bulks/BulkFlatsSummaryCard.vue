@@ -12,7 +12,7 @@ import {
   FLAT_STATUS_SOLD,
   FLATS_NAME_BY_ROOMS_COUNT
 } from "@/assets/api/types";
-import {ChartTypeRegistry, LegendItem, TooltipItem} from "chart.js/dist/types";
+import {ChartTypeRegistry, InteractionModeMap, LegendItem, TooltipItem} from "chart.js/dist/types";
 import {measurement} from "@/assets/numbers";
 
 const props = defineProps<{
@@ -53,6 +53,7 @@ const chartFlatsColors: Record<keyof typeof FLATS_NAME_BY_ROOMS_COUNT, Record<'b
 const baseChartOptions = {
   interaction: {
     intersect: false,
+    mode: 'x' as keyof InteractionModeMap // why typescript show error on Chart for option property without type asserting?
   }
 }
 
