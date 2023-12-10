@@ -1,4 +1,4 @@
-export function measurement(value: number, postfix= '₽') {
+export function measurement(value: number, postfix= '₽'): string {
     const [valueAsNumber, error] = validateNumber(value)
     if (error) {
         return error

@@ -12,7 +12,7 @@ import {
   FLAT_STATUS_SOLD,
   FLATS_NAME_BY_ROOMS_COUNT
 } from "@/assets/api/types";
-import {LegendItem, TooltipItem} from "chart.js/dist/types";
+import {ChartTypeRegistry, LegendItem, TooltipItem} from "chart.js/dist/types";
 import {measurement} from "@/assets/numbers";
 
 const props = defineProps<{
@@ -53,7 +53,6 @@ const chartFlatsColors: Record<keyof typeof FLATS_NAME_BY_ROOMS_COUNT, Record<'b
 const baseChartOptions = {
   interaction: {
     intersect: false,
-    mode: 'index',
   }
 }
 
@@ -69,20 +68,20 @@ const flatPricesChartOptions = {
     },
     tooltip: {
       callbacks: {
-        label(item: TooltipItem): string | string[] | undefined {
+        label(item: TooltipItem<keyof ChartTypeRegistry>): string | string[] | undefined {
           const datasetPricesMin = item.chart.config.data.datasets[item.datasetIndex + 1]
           const datasetPricesMax = item.chart.config.data.datasets[item.datasetIndex]
 
-          const priceMin = measurement(datasetPricesMin.data[item.dataIndex])
-          const priceMax = measurement(datasetPricesMax.data[item.dataIndex])
+          const priceMin = measurement(datasetPricesMin.data[item.dataIndex] as number)
+          const priceMax = measurement(datasetPricesMax.data[item.dataIndex] as number)
 
-          const roominess = item.dataset.label.replace(' (Макс)', '')
+          const roominess = item.dataset.label?.replace(' (Макс)', '')
 
           return `${roominess}: ${priceMin} - ${priceMax}`
         }
       },
-      filter(item: TooltipItem) {
-        return !item.dataset.label.includes('Мин')
+      filter(item: TooltipItem<keyof ChartTypeRegistry>) {
+        return !item.dataset.label?.includes('Мин')
       },
     }
   }
