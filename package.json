@@ -9,6 +9,7 @@
     "lint": "eslint . --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@babel/core": "^7.23.5",
     "@mdi/font": "7.0.96",
     "chart.js": "^4.4.1",
     "core-js": "^3.8.3",
