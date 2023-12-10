@@ -1885,7 +1885,14 @@
     {
         "id": 902556,
         "area": 55.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-10T18:35:12.634124",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
+            }
+        ],
         "block_id": 1724,
         "block_name": "Аэронавт",
         "block_slug": "aeronaut",
@@ -1894,7 +1901,7 @@
         "floor": 13,
         "price": 15402979.0,
         "rooms": 2,
-        "status": "free"
+        "status": "reserve"
     },
     {
         "id": 902069,
@@ -2151,7 +2158,14 @@
     {
         "id": 790301,
         "area": 22.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-10T18:35:12.632626",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
+            }
+        ],
         "block_id": 1724,
         "block_name": "Аэронавт",
         "block_slug": "aeronaut",
@@ -2160,7 +2174,7 @@
         "floor": 12,
         "price": 7646577.0,
         "rooms": -1,
-        "status": "free"
+        "status": "reserve"
     },
     {
         "id": 789939,
@@ -5678,7 +5692,14 @@
     {
         "id": 788200,
         "area": 36.2,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-10T18:35:13.658939",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
@@ -5687,7 +5708,7 @@
         "floor": 10,
         "price": 10884326.0,
         "rooms": 1,
-        "status": "free"
+        "status": "reserve"
     },
     {
         "id": 892791,
