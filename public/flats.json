@@ -2221,7 +2221,14 @@
     {
         "id": 792247,
         "area": 24.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-11T14:20:19.265936",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
+            }
+        ],
         "block_id": 1724,
         "block_name": "Аэронавт",
         "block_slug": "aeronaut",
@@ -2230,7 +2237,7 @@
         "floor": 4,
         "price": 8001947.0,
         "rooms": -1,
-        "status": "free"
+        "status": "reserve"
     },
     {
         "id": 790251,
