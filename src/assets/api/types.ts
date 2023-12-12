@@ -110,11 +110,11 @@ export class ApiFlat implements ApiFlatI {
         .find(change => moment(change.created_at).format(ISO_DATE) <= dateParsedISO)
 
     if (change) {
-      change.value_new
+      return change.value_new
     }
 
     if (this.createdAt.format(ISO_DATE) <= dateParsedISO) {
-      changelog[0].value
+      return changelog[0].value
     }
 
     return null
