@@ -4325,28 +4325,42 @@
     {
         "id": 892351,
         "area": 74.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.162065",
+                "key": "price",
+                "value": 18048844.0,
+                "value_new": 17905996.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.032982",
         "floor": 9,
-        "price": 18048844.0,
+        "price": 17905996.0,
         "rooms": 3,
         "status": "free"
     },
     {
         "id": 892093,
         "area": 85.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.162121",
+                "key": "price",
+                "value": 19337443.0,
+                "value_new": 19174051.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.032982",
         "floor": 4,
-        "price": 19337443.0,
+        "price": 19174051.0,
         "rooms": 3,
         "status": "free"
     },
@@ -4395,28 +4409,42 @@
     {
         "id": 892323,
         "area": 74.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.162052",
+                "key": "price",
+                "value": 18020275.0,
+                "value_new": 17877427.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.032982",
         "floor": 7,
-        "price": 18020275.0,
+        "price": 17877427.0,
         "rooms": 3,
         "status": "free"
     },
     {
         "id": 892331,
         "area": 36.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161511",
+                "key": "price",
+                "value": 10604044.0,
+                "value_new": 10533772.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.033982",
         "floor": 8,
-        "price": 10604044.0,
+        "price": 10533772.0,
         "rooms": 1,
         "status": "free"
     },
@@ -4570,14 +4598,21 @@
     {
         "id": 892170,
         "area": 85.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.162144",
+                "key": "price",
+                "value": 19639718.0,
+                "value_new": 19476326.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.033982",
         "floor": 9,
-        "price": 19639718.0,
+        "price": 19476326.0,
         "rooms": 3,
         "status": "free"
     },
@@ -4647,28 +4682,42 @@
     {
         "id": 892088,
         "area": 50.2,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161776",
+                "key": "price",
+                "value": 13884115.0,
+                "value_new": 13787731.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.033982",
         "floor": 5,
-        "price": 13884115.0,
+        "price": 13787731.0,
         "rooms": 2,
         "status": "free"
     },
     {
         "id": 892394,
         "area": 66.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.162006",
+                "key": "price",
+                "value": 16828531.0,
+                "value_new": 16701619.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.034984",
         "floor": 12,
-        "price": 16828531.0,
+        "price": 16701619.0,
         "rooms": 2,
         "status": "free"
     },
@@ -4717,14 +4766,21 @@
     {
         "id": 892075,
         "area": 50.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161702",
+                "key": "price",
+                "value": 13582310.0,
+                "value_new": 13486118.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.034984",
         "floor": 3,
-        "price": 13582310.0,
+        "price": 13486118.0,
         "rooms": 2,
         "status": "free"
     },
@@ -4808,28 +4864,42 @@
     {
         "id": 892172,
         "area": 36.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161495",
+                "key": "price",
+                "value": 10597017.0,
+                "value_new": 10526745.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.034984",
         "floor": 9,
-        "price": 10597017.0,
+        "price": 10526745.0,
         "rooms": 1,
         "status": "free"
     },
     {
         "id": 892206,
         "area": 46.7,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161661",
+                "key": "price",
+                "value": 13198540.0,
+                "value_new": 13108876.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.034984",
         "floor": 12,
-        "price": 13198540.0,
+        "price": 13108876.0,
         "rooms": 2,
         "status": "free"
     },
@@ -4962,14 +5032,21 @@
     {
         "id": 892383,
         "area": 34.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161208",
+                "key": "price",
+                "value": 9725865.0,
+                "value_new": 9660393.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.035981",
         "floor": 12,
-        "price": 9725865.0,
+        "price": 9660393.0,
         "rooms": 1,
         "status": "free"
     },
@@ -5060,42 +5137,63 @@
     {
         "id": 892237,
         "area": 84.5,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.162110",
+                "key": "price",
+                "value": 18754944.0,
+                "value_new": 18592704.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.035981",
         "floor": 14,
-        "price": 18754944.0,
+        "price": 18592704.0,
         "rooms": 3,
         "status": "free"
     },
     {
         "id": 892164,
         "area": 20.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160626",
+                "key": "price",
+                "value": 7145068.0,
+                "value_new": 7105516.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.035981",
         "floor": 9,
-        "price": 7145068.0,
+        "price": 7105516.0,
         "rooms": -1,
         "status": "free"
     },
     {
         "id": 892253,
         "area": 73.2,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161977",
+                "key": "price",
+                "value": 16401484.0,
+                "value_new": 16260940.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.035981",
         "floor": 2,
-        "price": 16401484.0,
+        "price": 16260940.0,
         "rooms": 3,
         "status": "free"
     },
@@ -5179,14 +5277,21 @@
     {
         "id": 892112,
         "area": 85.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.162132",
+                "key": "price",
+                "value": 19582531.0,
+                "value_new": 19419139.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.036984",
         "floor": 6,
-        "price": 19582531.0,
+        "price": 19419139.0,
         "rooms": 3,
         "status": "free"
     },
@@ -5340,14 +5445,21 @@
     {
         "id": 892404,
         "area": 24.2,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160745",
+                "key": "price",
+                "value": 7513228.0,
+                "value_new": 7466764.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.036984",
         "floor": 13,
-        "price": 7513228.0,
+        "price": 7466764.0,
         "rooms": -1,
         "status": "free"
     },
@@ -5494,14 +5606,21 @@
     {
         "id": 892207,
         "area": 50.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161801",
+                "key": "price",
+                "value": 13976697.0,
+                "value_new": 13880505.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.037982",
         "floor": 12,
-        "price": 13976697.0,
+        "price": 13880505.0,
         "rooms": 2,
         "status": "free"
     },
@@ -5529,14 +5648,21 @@
     {
         "id": 892136,
         "area": 23.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160683",
+                "key": "price",
+                "value": 7317888.0,
+                "value_new": 7272576.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.037982",
         "floor": 7,
-        "price": 7317888.0,
+        "price": 7272576.0,
         "rooms": -1,
         "status": "free"
     },
@@ -5564,14 +5690,21 @@
     {
         "id": 892104,
         "area": 50.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161684",
+                "key": "price",
+                "value": 13524595.0,
+                "value_new": 13428403.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.037982",
         "floor": 5,
-        "price": 13524595.0,
+        "price": 13428403.0,
         "rooms": 2,
         "status": "free"
     },
@@ -5599,28 +5732,42 @@
     {
         "id": 892376,
         "area": 23.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160657",
+                "key": "price",
+                "value": 7286169.0,
+                "value_new": 7240857.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.037982",
         "floor": 11,
-        "price": 7286169.0,
+        "price": 7240857.0,
         "rooms": -1,
         "status": "free"
     },
     {
         "id": 892472,
         "area": 20.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160546",
+                "key": "price",
+                "value": 6952320.0,
+                "value_new": 6990720.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.037982",
         "floor": 12,
-        "price": 6952320.0,
+        "price": 6990720.0,
         "rooms": -1,
         "status": "free"
     },
@@ -5683,14 +5830,21 @@
     {
         "id": 892385,
         "area": 50.5,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161716",
+                "key": "price",
+                "value": 13618032.0,
+                "value_new": 13521072.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.038990",
         "floor": 12,
-        "price": 13618032.0,
+        "price": 13521072.0,
         "rooms": 2,
         "status": "free"
     },
@@ -5781,28 +5935,42 @@
     {
         "id": 892238,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161196",
+                "key": "price",
+                "value": 9716889.0,
+                "value_new": 9654681.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.038990",
         "floor": 14,
-        "price": 9716889.0,
+        "price": 9654681.0,
         "rooms": 1,
         "status": "free"
     },
     {
         "id": 892305,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161083",
+                "key": "price",
+                "value": 9688896.0,
+                "value_new": 9626688.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.038990",
         "floor": 6,
-        "price": 9688896.0,
+        "price": 9626688.0,
         "rooms": 1,
         "status": "free"
     },
@@ -5851,14 +6019,21 @@
     {
         "id": 892380,
         "area": 65.5,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161946",
+                "key": "price",
+                "value": 16216752.0,
+                "value_new": 16090992.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.038990",
         "floor": 11,
-        "price": 16216752.0,
+        "price": 16090992.0,
         "rooms": 2,
         "status": "free"
     },
@@ -5961,28 +6136,42 @@
     {
         "id": 892086,
         "area": 20.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160369",
+                "key": "price",
+                "value": 6647040.0,
+                "value_new": 6608640.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.039983",
         "floor": 4,
-        "price": 6647040.0,
+        "price": 6608640.0,
         "rooms": -1,
         "status": "free"
     },
     {
         "id": 892063,
         "area": 36.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161223",
+                "key": "price",
+                "value": 9732096.0,
+                "value_new": 9662976.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.039983",
         "floor": 2,
-        "price": 9732096.0,
+        "price": 9662976.0,
         "rooms": 1,
         "status": "free"
     },
@@ -6052,14 +6241,21 @@
     {
         "id": 892364,
         "area": 20.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160487",
+                "key": "price",
+                "value": 6890880.0,
+                "value_new": 6852480.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.039983",
         "floor": 11,
-        "price": 6890880.0,
+        "price": 6852480.0,
         "rooms": -1,
         "status": "free"
     },
@@ -6087,14 +6283,21 @@
     {
         "id": 892244,
         "area": 50.8,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161745",
+                "key": "price",
+                "value": 13669670.0,
+                "value_new": 13572134.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.039983",
         "floor": 2,
-        "price": 13669670.0,
+        "price": 13572134.0,
         "rooms": 2,
         "status": "free"
     },
@@ -6164,14 +6367,21 @@
     {
         "id": 892173,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161004",
+                "key": "price",
+                "value": 9611136.0,
+                "value_new": 9548928.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.040981",
         "floor": 9,
-        "price": 9611136.0,
+        "price": 9548928.0,
         "rooms": 1,
         "status": "free"
     },
@@ -6255,14 +6465,21 @@
     {
         "id": 892409,
         "area": 25.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160818",
+                "key": "price",
+                "value": 7578547.0,
+                "value_new": 7529779.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.040981",
         "floor": 14,
-        "price": 7578547.0,
+        "price": 7529779.0,
         "rooms": -1,
         "status": "free"
     },
@@ -6325,14 +6542,21 @@
     {
         "id": 892246,
         "area": 55.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161758",
+                "key": "price",
+                "value": 13694880.0,
+                "value_new": 13588512.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.040981",
         "floor": 2,
-        "price": 13694880.0,
+        "price": 13588512.0,
         "rooms": 2,
         "status": "free"
     },
@@ -6360,14 +6584,21 @@
     {
         "id": 892247,
         "area": 36.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161269",
+                "key": "price",
+                "value": 9770112.0,
+                "value_new": 9700992.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.040981",
         "floor": 2,
-        "price": 9770112.0,
+        "price": 9700992.0,
         "rooms": 1,
         "status": "free"
     },
@@ -6458,14 +6689,21 @@
     {
         "id": 892412,
         "area": 50.8,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161823",
+                "key": "price",
+                "value": 14196364.0,
+                "value_new": 14098828.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.041982",
         "floor": 14,
-        "price": 14196364.0,
+        "price": 14098828.0,
         "rooms": 2,
         "status": "free"
     },
@@ -6493,28 +6731,42 @@
     {
         "id": 892313,
         "area": 34.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161167",
+                "key": "price",
+                "value": 9709497.0,
+                "value_new": 9644025.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.041982",
         "floor": 7,
-        "price": 9709497.0,
+        "price": 9644025.0,
         "rooms": 1,
         "status": "free"
     },
     {
         "id": 892476,
         "area": 25.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160861",
+                "key": "price",
+                "value": 8271052.0,
+                "value_new": 8222284.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.041982",
         "floor": 13,
-        "price": 8271052.0,
+        "price": 8222284.0,
         "rooms": -1,
         "status": "free"
     },
@@ -6563,28 +6815,42 @@
     {
         "id": 892333,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161120",
+                "key": "price",
+                "value": 9698227.0,
+                "value_new": 9636019.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.041982",
         "floor": 8,
-        "price": 9698227.0,
+        "price": 9636019.0,
         "rooms": 1,
         "status": "free"
     },
     {
         "id": 892417,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161251",
+                "key": "price",
+                "value": 9741772.0,
+                "value_new": 9679564.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.041982",
         "floor": 14,
-        "price": 9741772.0,
+        "price": 9679564.0,
         "rooms": 1,
         "status": "free"
     },
@@ -6605,14 +6871,21 @@
     {
         "id": 892264,
         "area": 23.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160606",
+                "key": "price",
+                "value": 7093593.0,
+                "value_new": 7048281.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.042981",
         "floor": 3,
-        "price": 7093593.0,
+        "price": 7048281.0,
         "rooms": -1,
         "status": "free"
     },
@@ -6688,14 +6961,21 @@
     {
         "id": 892322,
         "area": 32.5,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161094",
+                "key": "price",
+                "value": 9690720.0,
+                "value_new": 9628320.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.042981",
         "floor": 7,
-        "price": 9690720.0,
+        "price": 9628320.0,
         "rooms": 1,
         "status": "free"
     },
@@ -6744,28 +7024,42 @@
     {
         "id": 892171,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161130",
+                "key": "price",
+                "value": 9698227.0,
+                "value_new": 9636019.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.042981",
         "floor": 9,
-        "price": 9698227.0,
+        "price": 9636019.0,
         "rooms": 1,
         "status": "free"
     },
     {
         "id": 892187,
         "area": 20.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160412",
+                "key": "price",
+                "value": 6725760.0,
+                "value_new": 6687360.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.042981",
         "floor": 11,
-        "price": 6725760.0,
+        "price": 6687360.0,
         "rooms": -1,
         "status": "free"
     },
@@ -7576,14 +7870,21 @@
     {
         "id": 892234,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161032",
+                "key": "price",
+                "value": 9660902.0,
+                "value_new": 9598694.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.045982",
         "floor": 14,
-        "price": 9660902.0,
+        "price": 9598694.0,
         "rooms": 1,
         "status": "free"
     },
@@ -7674,14 +7975,21 @@
     {
         "id": 892085,
         "area": 46.7,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161636",
+                "key": "price",
+                "value": 13001280.0,
+                "value_new": 12911616.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.046984",
         "floor": 4,
-        "price": 13001280.0,
+        "price": 12911616.0,
         "rooms": 2,
         "status": "free"
     },
@@ -7744,28 +8052,42 @@
     {
         "id": 892372,
         "area": 25.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160764",
+                "key": "price",
+                "value": 7534656.0,
+                "value_new": 7485888.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.046984",
         "floor": 11,
-        "price": 7534656.0,
+        "price": 7485888.0,
         "rooms": -1,
         "status": "free"
     },
     {
         "id": 892118,
         "area": 36.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161484",
+                "key": "price",
+                "value": 10561881.0,
+                "value_new": 10491609.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.046984",
         "floor": 6,
-        "price": 10561881.0,
+        "price": 10491609.0,
         "rooms": 1,
         "status": "free"
     },
@@ -7793,28 +8115,42 @@
     {
         "id": 892077,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160917",
+                "key": "price",
+                "value": 9337420.0,
+                "value_new": 9275212.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.046984",
         "floor": 3,
-        "price": 9337420.0,
+        "price": 9275212.0,
         "rooms": 1,
         "status": "free"
     },
     {
         "id": 892292,
         "area": 23.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160642",
+                "key": "price",
+                "value": 7245388.0,
+                "value_new": 7200076.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.046984",
         "floor": 5,
-        "price": 7245388.0,
+        "price": 7200076.0,
         "rooms": -1,
         "status": "free"
     },
@@ -7968,14 +8304,21 @@
     {
         "id": 892396,
         "area": 20.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160511",
+                "key": "price",
+                "value": 6935040.0,
+                "value_new": 6896640.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.047983",
         "floor": 13,
-        "price": 6935040.0,
+        "price": 6896640.0,
         "rooms": -1,
         "status": "free"
     },
@@ -8332,14 +8675,21 @@
     {
         "id": 892311,
         "area": 25.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160789",
+                "key": "price",
+                "value": 7549286.0,
+                "value_new": 7500518.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.048985",
         "floor": 7,
-        "price": 7549286.0,
+        "price": 7500518.0,
         "rooms": -1,
         "status": "free"
     },
@@ -8451,14 +8801,21 @@
     {
         "id": 892125,
         "area": 44.3,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161578",
+                "key": "price",
+                "value": 11359228.0,
+                "value_new": 11274172.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.049983",
         "floor": 6,
-        "price": 11359228.0,
+        "price": 11274172.0,
         "rooms": 1,
         "status": "free"
     },
@@ -8486,28 +8843,42 @@
     {
         "id": 892266,
         "area": 32.5,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160934",
+                "key": "price",
+                "value": 9409920.0,
+                "value_new": 9347520.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.050983",
         "floor": 3,
-        "price": 9409920.0,
+        "price": 9347520.0,
         "rooms": 1,
         "status": "free"
     },
     {
         "id": 892230,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161280",
+                "key": "price",
+                "value": 9810201.0,
+                "value_new": 9747993.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.050983",
         "floor": 14,
-        "price": 9810201.0,
+        "price": 9747993.0,
         "rooms": 1,
         "status": "free"
     },
@@ -8694,14 +9065,21 @@
     {
         "id": 892358,
         "area": 56.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161861",
+                "key": "price",
+                "value": 14697984.0,
+                "value_new": 14590464.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.050983",
         "floor": 10,
-        "price": 14697984.0,
+        "price": 14590464.0,
         "rooms": 2,
         "status": "free"
     },
@@ -8750,28 +9128,42 @@
     {
         "id": 892275,
         "area": 36.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161458",
+                "key": "price",
+                "value": 10449446.0,
+                "value_new": 10379174.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.051982",
         "floor": 4,
-        "price": 10449446.0,
+        "price": 10379174.0,
         "rooms": 1,
         "status": "free"
     },
     {
         "id": 892106,
         "area": 46.7,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161650",
+                "key": "price",
+                "value": 13180608.0,
+                "value_new": 13090944.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.051982",
         "floor": 6,
-        "price": 13180608.0,
+        "price": 13090944.0,
         "rooms": 2,
         "status": "free"
     },
@@ -8897,28 +9289,42 @@
     {
         "id": 892294,
         "area": 32.5,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160993",
+                "key": "price",
+                "value": 9609600.0,
+                "value_new": 9547200.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.051982",
         "floor": 5,
-        "price": 9609600.0,
+        "price": 9547200.0,
         "rooms": 1,
         "status": "free"
     },
     {
         "id": 892155,
         "area": 20.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160583",
+                "key": "price",
+                "value": 7054099.0,
+                "value_new": 7014547.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.051982",
         "floor": 8,
-        "price": 7054099.0,
+        "price": 7014547.0,
         "rooms": -1,
         "status": "free"
     },
@@ -8939,14 +9345,21 @@
     {
         "id": 892302,
         "area": 56.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161874",
+                "key": "price",
+                "value": 14730240.0,
+                "value_new": 14622720.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.052982",
         "floor": 6,
-        "price": 14730240.0,
+        "price": 14622720.0,
         "rooms": 2,
         "status": "free"
     },
@@ -9064,14 +9477,21 @@
     {
         "id": 892147,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160973",
+                "key": "price",
+                "value": 9586252.0,
+                "value_new": 9524044.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.052982",
         "floor": 7,
-        "price": 9586252.0,
+        "price": 9524044.0,
         "rooms": 1,
         "status": "free"
     },
@@ -9378,42 +9798,63 @@
     {
         "id": 892416,
         "area": 20.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160476",
+                "key": "price",
+                "value": 6844800.0,
+                "value_new": 6806400.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 14,
-        "price": 6844800.0,
+        "price": 6806400.0,
         "rooms": -1,
         "status": "free"
     },
     {
         "id": 892339,
         "area": 25.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160807",
+                "key": "price",
+                "value": 7566355.0,
+                "value_new": 7517587.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 9,
-        "price": 7566355.0,
+        "price": 7517587.0,
         "rooms": -1,
         "status": "free"
     },
     {
         "id": 892332,
         "area": 20.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160448",
+                "key": "price",
+                "value": 6823680.0,
+                "value_new": 6785280.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 8,
-        "price": 6823680.0,
+        "price": 6785280.0,
         "rooms": -1,
         "status": "free"
     },
@@ -9483,14 +9924,21 @@
     {
         "id": 892194,
         "area": 20.6,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160570",
+                "key": "price",
+                "value": 7044211.0,
+                "value_new": 7004659.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.054984",
         "floor": 11,
-        "price": 7044211.0,
+        "price": 7004659.0,
         "rooms": -1,
         "status": "free"
     },
@@ -9518,42 +9966,63 @@
     {
         "id": 892145,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161046",
+                "key": "price",
+                "value": 9673344.0,
+                "value_new": 9611136.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.054984",
         "floor": 7,
-        "price": 9673344.0,
+        "price": 9611136.0,
         "rooms": 1,
         "status": "free"
     },
     {
         "id": 892350,
         "area": 32.5,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161185",
+                "key": "price",
+                "value": 9715680.0,
+                "value_new": 9653280.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.054984",
         "floor": 9,
-        "price": 9715680.0,
+        "price": 9653280.0,
         "rooms": 1,
         "status": "free"
     },
     {
         "id": 892240,
         "area": 44.3,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161593",
+                "key": "price",
+                "value": 11418768.0,
+                "value_new": 11333712.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.054984",
         "floor": 14,
-        "price": 11418768.0,
+        "price": 11333712.0,
         "rooms": 1,
         "status": "free"
     },
@@ -9637,14 +10106,21 @@
     {
         "id": 892243,
         "area": 34.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160906",
+                "key": "price",
+                "value": 9333033.0,
+                "value_new": 9267561.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.054984",
         "floor": 2,
-        "price": 9333033.0,
+        "price": 9267561.0,
         "rooms": 1,
         "status": "free"
     },
@@ -9707,14 +10183,21 @@
     {
         "id": 892210,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161105",
+                "key": "price",
+                "value": 9692006.0,
+                "value_new": 9629798.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.055982",
         "floor": 12,
-        "price": 9692006.0,
+        "price": 9629798.0,
         "rooms": 1,
         "status": "free"
     },
@@ -9763,14 +10246,21 @@
     {
         "id": 892161,
         "area": 50.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161728",
+                "key": "price",
+                "value": 13620787.0,
+                "value_new": 13524595.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.055982",
         "floor": 8,
-        "price": 13620787.0,
+        "price": 13524595.0,
         "rooms": 2,
         "status": "free"
     },
@@ -9903,14 +10393,21 @@
     {
         "id": 892249,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160895",
+                "key": "price",
+                "value": 9328089.0,
+                "value_new": 9265881.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.055982",
         "floor": 2,
-        "price": 9328089.0,
+        "price": 9265881.0,
         "rooms": 1,
         "status": "free"
     },
@@ -9980,14 +10477,21 @@
     {
         "id": 892360,
         "area": 20.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.160464",
+                "key": "price",
+                "value": 6842880.0,
+                "value_new": 6804480.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.056981",
         "floor": 10,
-        "price": 6842880.0,
+        "price": 6804480.0,
         "rooms": -1,
         "status": "free"
     },
@@ -10021,14 +10525,21 @@
     {
         "id": 892224,
         "area": 36.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161394",
+                "key": "price",
+                "value": 10171008.0,
+                "value_new": 10101888.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.056981",
         "floor": 13,
-        "price": 10171008.0,
+        "price": 10101888.0,
         "rooms": 1,
         "status": "free"
     },
@@ -10125,14 +10636,21 @@
     {
         "id": 892156,
         "area": 50.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161790",
+                "key": "price",
+                "value": 13957459.0,
+                "value_new": 13861267.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.056981",
         "floor": 8,
-        "price": 13957459.0,
+        "price": 13861267.0,
         "rooms": 2,
         "status": "free"
     },
@@ -10230,28 +10748,42 @@
     {
         "id": 892274,
         "area": 56.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161833",
+                "key": "price",
+                "value": 14531328.0,
+                "value_new": 14423808.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.057982",
         "floor": 4,
-        "price": 14531328.0,
+        "price": 14423808.0,
         "rooms": 2,
         "status": "free"
     },
     {
         "id": 892355,
         "area": 34.1,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161237",
+                "key": "price",
+                "value": 9735686.0,
+                "value_new": 9670214.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.057982",
         "floor": 10,
-        "price": 9735686.0,
+        "price": 9670214.0,
         "rooms": 1,
         "status": "free"
     },
@@ -10300,14 +10832,21 @@
     {
         "id": 892375,
         "area": 32.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161072",
+                "key": "price",
+                "value": 9685785.0,
+                "value_new": 9623577.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.057982",
         "floor": 11,
-        "price": 9685785.0,
+        "price": 9623577.0,
         "rooms": 1,
         "status": "free"
     },
@@ -10782,28 +11321,42 @@
     {
         "id": 892422,
         "area": 65.5,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.161956",
+                "key": "price",
+                "value": 16292208.0,
+                "value_new": 16166448.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-08T01:40:55.089778",
         "floor": 14,
-        "price": 16292208.0,
+        "price": 16166448.0,
         "rooms": 2,
         "status": "free"
     },
     {
         "id": 892393,
         "area": 74.4,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-12T06:30:22.162041",
+                "key": "price",
+                "value": 18013132.0,
+                "value_new": 17870284.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-08T01:40:55.089778",
         "floor": 12,
-        "price": 18013132.0,
+        "price": 17870284.0,
         "rooms": 3,
         "status": "free"
     }
