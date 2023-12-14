@@ -821,7 +821,14 @@
     {
         "id": 902472,
         "area": 33.7,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-14T12:00:25.968394",
+                "key": "status",
+                "value": "free",
+                "value_new": "sold"
+            }
+        ],
         "block_id": 1724,
         "block_name": "Аэронавт",
         "block_slug": "aeronaut",
@@ -830,7 +837,7 @@
         "floor": 7,
         "price": 10810252.0,
         "rooms": 1,
-        "status": "free"
+        "status": "sold"
     },
     {
         "id": 902112,
@@ -7751,6 +7758,12 @@
                 "key": "status",
                 "value": "free",
                 "value_new": "reserve"
+            },
+            {
+                "created_at": "2023-12-14T12:00:25.968441",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "sold"
             }
         ],
         "block_id": 2014,
@@ -7761,7 +7774,7 @@
         "floor": 2,
         "price": 10345104.0,
         "rooms": 1,
-        "status": "reserve"
+        "status": "sold"
     },
     {
         "id": 788179,
