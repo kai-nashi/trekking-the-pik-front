@@ -13315,6 +13315,12 @@
                 "key": "price",
                 "value": 6909734.0,
                 "value_new": 6978950.0
+            },
+            {
+                "created_at": "2023-12-16T00:00:24.937101",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "sold"
             }
         ],
         "block_id": 2014,
@@ -13325,7 +13331,7 @@
         "floor": 4,
         "price": 6978950.0,
         "rooms": -1,
-        "status": "reserve"
+        "status": "sold"
     },
     {
         "id": 892378,
