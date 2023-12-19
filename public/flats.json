@@ -6839,6 +6839,12 @@
                 "key": "price",
                 "value": 18420499.0,
                 "value_new": 18286483.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474978",
+                "key": "price",
+                "value": 18286483.0,
+                "value_new": 18145766.0
             }
         ],
         "block_id": 2014,
@@ -6847,7 +6853,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.033982",
         "floor": 4,
-        "price": 18286483.0,
+        "price": 18145766.0,
         "rooms": 3,
         "status": "free"
     },
@@ -7028,6 +7034,12 @@
                 "key": "price",
                 "value": 9878630.0,
                 "value_new": 9850636.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474209",
+                "key": "price",
+                "value": 9850636.0,
+                "value_new": 9760435.0
             }
         ],
         "block_id": 2014,
@@ -7036,7 +7048,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.033982",
         "floor": 11,
-        "price": 9850636.0,
+        "price": 9760435.0,
         "rooms": 1,
         "status": "free"
     },
@@ -7055,6 +7067,12 @@
                 "key": "price",
                 "value": 17604547.0,
                 "value_new": 17551017.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474925",
+                "key": "price",
+                "value": 17551017.0,
+                "value_new": 17363664.0
             }
         ],
         "block_id": 2014,
@@ -7063,7 +7081,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.033982",
         "floor": 11,
-        "price": 17551017.0,
+        "price": 17363664.0,
         "rooms": 3,
         "status": "free"
     },
@@ -7190,6 +7208,12 @@
                 "key": "price",
                 "value": 17938310.0,
                 "value_new": 17884320.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474935",
+                "key": "price",
+                "value": 17884320.0,
+                "value_new": 17695353.0
             }
         ],
         "block_id": 2014,
@@ -7198,7 +7222,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.034984",
         "floor": 5,
-        "price": 17884320.0,
+        "price": 17695353.0,
         "rooms": 3,
         "status": "free"
     },
@@ -7265,6 +7289,12 @@
                 "key": "price",
                 "value": 13541548.0,
                 "value_new": 13449772.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474645",
+                "key": "price",
+                "value": 13449772.0,
+                "value_new": 13353408.0
             }
         ],
         "block_id": 2014,
@@ -7273,7 +7303,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.034984",
         "floor": 12,
-        "price": 13449772.0,
+        "price": 13353408.0,
         "rooms": 2,
         "status": "free"
     },
@@ -7481,6 +7511,12 @@
                 "key": "price",
                 "value": 18036288.0,
                 "value_new": 17903424.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474953",
+                "key": "price",
+                "value": 17903424.0,
+                "value_new": 17763916.0
             }
         ],
         "block_id": 2014,
@@ -7489,7 +7525,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.034984",
         "floor": 12,
-        "price": 17903424.0,
+        "price": 17763916.0,
         "rooms": 3,
         "status": "free"
     },
@@ -7502,6 +7538,12 @@
                 "key": "price",
                 "value": 13564492.0,
                 "value_new": 13472716.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474655",
+                "key": "price",
+                "value": 13472716.0,
+                "value_new": 13376352.0
             }
         ],
         "block_id": 2014,
@@ -7510,7 +7552,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.035981",
         "floor": 10,
-        "price": 13472716.0,
+        "price": 13376352.0,
         "rooms": 2,
         "status": "free"
     },
@@ -7610,6 +7652,12 @@
                 "key": "price",
                 "value": 18668428.0,
                 "value_new": 18534412.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474990",
+                "key": "price",
+                "value": 18534412.0,
+                "value_new": 18393696.0
             }
         ],
         "block_id": 2014,
@@ -7618,7 +7666,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.035981",
         "floor": 9,
-        "price": 18534412.0,
+        "price": 18393696.0,
         "rooms": 3,
         "status": "free"
     },
@@ -7919,6 +7967,12 @@
                 "key": "price",
                 "value": 9925286.0,
                 "value_new": 9897292.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474223",
+                "key": "price",
+                "value": 9897292.0,
+                "value_new": 9807091.0
             }
         ],
         "block_id": 2014,
@@ -7927,7 +7981,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.036984",
         "floor": 9,
-        "price": 9897292.0,
+        "price": 9807091.0,
         "rooms": 1,
         "status": "free"
     },
@@ -8021,6 +8075,12 @@
                 "key": "price",
                 "value": 10058400.0,
                 "value_new": 9995040.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474258",
+                "key": "price",
+                "value": 9995040.0,
+                "value_new": 9928512.0
             }
         ],
         "block_id": 2014,
@@ -8029,7 +8089,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.036984",
         "floor": 4,
-        "price": 9995040.0,
+        "price": 9928512.0,
         "rooms": 1,
         "status": "free"
     },
@@ -8351,6 +8411,12 @@
                 "key": "price",
                 "value": 9493440.0,
                 "value_new": 9427968.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473952",
+                "key": "price",
+                "value": 9427968.0,
+                "value_new": 9447609.0
             }
         ],
         "block_id": 2014,
@@ -8359,7 +8425,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.037982",
         "floor": 2,
-        "price": 9427968.0,
+        "price": 9447609.0,
         "rooms": 1,
         "status": "free"
     },
@@ -8399,6 +8465,12 @@
                 "key": "price",
                 "value": 10282435.0,
                 "value_new": 10213123.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474393",
+                "key": "price",
+                "value": 10213123.0,
+                "value_new": 10140345.0
             }
         ],
         "block_id": 2014,
@@ -8407,7 +8479,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.037982",
         "floor": 8,
-        "price": 10213123.0,
+        "price": 10140345.0,
         "rooms": 1,
         "status": "free"
     },
@@ -8522,6 +8594,12 @@
                 "key": "price",
                 "value": 9909187.0,
                 "value_new": 9843715.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474236",
+                "key": "price",
+                "value": 9843715.0,
+                "value_new": 9863356.0
             }
         ],
         "block_id": 2014,
@@ -8530,7 +8608,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.037982",
         "floor": 6,
-        "price": 9843715.0,
+        "price": 9863356.0,
         "rooms": 1,
         "status": "free"
     },
@@ -8645,6 +8723,12 @@
                 "key": "price",
                 "value": 7306560.0,
                 "value_new": 7261248.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473619",
+                "key": "price",
+                "value": 7261248.0,
+                "value_new": 7213670.0
             }
         ],
         "block_id": 2014,
@@ -8653,7 +8737,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.038990",
         "floor": 12,
-        "price": 7261248.0,
+        "price": 7213670.0,
         "rooms": -1,
         "status": "free"
     },
@@ -8693,6 +8777,12 @@
                 "key": "price",
                 "value": 9395232.0,
                 "value_new": 9329760.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473876",
+                "key": "price",
+                "value": 9329760.0,
+                "value_new": 9261014.0
             }
         ],
         "block_id": 2014,
@@ -8701,7 +8791,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.038990",
         "floor": 2,
-        "price": 9329760.0,
+        "price": 9261014.0,
         "rooms": 1,
         "status": "free"
     },
@@ -8768,6 +8858,12 @@
                 "key": "price",
                 "value": 7100870.0,
                 "value_new": 7059014.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473560",
+                "key": "price",
+                "value": 7059014.0,
+                "value_new": 7015065.0
             }
         ],
         "block_id": 2014,
@@ -8776,7 +8872,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.038990",
         "floor": 12,
-        "price": 7059014.0,
+        "price": 7015065.0,
         "rooms": -1,
         "status": "free"
     },
@@ -8795,6 +8891,12 @@
                 "key": "status",
                 "value": "free",
                 "value_new": "reserve"
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473465",
+                "key": "price",
+                "value": 6869760.0,
+                "value_new": 6890880.0
             }
         ],
         "block_id": 2014,
@@ -8803,7 +8905,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.038990",
         "floor": 8,
-        "price": 6869760.0,
+        "price": 6890880.0,
         "rooms": -1,
         "status": "reserve"
     },
@@ -8843,6 +8945,12 @@
                 "key": "price",
                 "value": 13674547.0,
                 "value_new": 13577011.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474691",
+                "key": "price",
+                "value": 13577011.0,
+                "value_new": 13474598.0
             }
         ],
         "block_id": 2014,
@@ -8851,7 +8959,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.038990",
         "floor": 9,
-        "price": 13577011.0,
+        "price": 13474598.0,
         "rooms": 2,
         "status": "free"
     },
@@ -9314,6 +9422,12 @@
                 "key": "price",
                 "value": 10136793.0,
                 "value_new": 10074585.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474334",
+                "key": "price",
+                "value": 10074585.0,
+                "value_new": 10009267.0
             }
         ],
         "block_id": 2014,
@@ -9322,7 +9436,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.040981",
         "floor": 12,
-        "price": 10074585.0,
+        "price": 10009267.0,
         "rooms": 1,
         "status": "free"
     },
@@ -9431,6 +9545,12 @@
                 "key": "price",
                 "value": 9702950.0,
                 "value_new": 9637478.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474083",
+                "key": "price",
+                "value": 9637478.0,
+                "value_new": 9568732.0
             }
         ],
         "block_id": 2014,
@@ -9439,7 +9559,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.040981",
         "floor": 9,
-        "price": 9637478.0,
+        "price": 9568732.0,
         "rooms": 1,
         "status": "free"
     },
@@ -9452,6 +9572,12 @@
                 "key": "price",
                 "value": 7356403.0,
                 "value_new": 7311091.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473649",
+                "key": "price",
+                "value": 7311091.0,
+                "value_new": 7263513.0
             }
         ],
         "block_id": 2014,
@@ -9460,7 +9586,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.040981",
         "floor": 12,
-        "price": 7311091.0,
+        "price": 7263513.0,
         "rooms": -1,
         "status": "free"
     },
@@ -9560,6 +9686,12 @@
                 "key": "price",
                 "value": 10755532.0,
                 "value_new": 10677196.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474479",
+                "key": "price",
+                "value": 10677196.0,
+                "value_new": 10594944.0
             }
         ],
         "block_id": 2014,
@@ -9568,7 +9700,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.041982",
         "floor": 2,
-        "price": 10677196.0,
+        "price": 10594944.0,
         "rooms": 1,
         "status": "free"
     },
@@ -9614,6 +9746,12 @@
                 "key": "price",
                 "value": 11186380.0,
                 "value_new": 11108044.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474544",
+                "key": "price",
+                "value": 11108044.0,
+                "value_new": 11025792.0
             }
         ],
         "block_id": 2014,
@@ -9622,7 +9760,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.041982",
         "floor": 9,
-        "price": 11108044.0,
+        "price": 11025792.0,
         "rooms": 1,
         "status": "free"
     },
@@ -9635,6 +9773,12 @@
                 "key": "price",
                 "value": 7676083.0,
                 "value_new": 7627315.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473794",
+                "key": "price",
+                "value": 7627315.0,
+                "value_new": 7576108.0
             }
         ],
         "block_id": 2014,
@@ -9643,7 +9787,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.041982",
         "floor": 9,
-        "price": 7627315.0,
+        "price": 7576108.0,
         "rooms": -1,
         "status": "free"
     },
@@ -9683,6 +9827,12 @@
                 "key": "price",
                 "value": 10958707.0,
                 "value_new": 10879411.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474498",
+                "key": "price",
+                "value": 10879411.0,
+                "value_new": 10796150.0
             }
         ],
         "block_id": 2014,
@@ -9691,7 +9841,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.041982",
         "floor": 4,
-        "price": 10879411.0,
+        "price": 10796150.0,
         "rooms": 1,
         "status": "free"
     },
@@ -9791,6 +9941,12 @@
                 "key": "price",
                 "value": 13101043.0,
                 "value_new": 13146739.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474620",
+                "key": "price",
+                "value": 13146739.0,
+                "value_new": 13050777.0
             }
         ],
         "block_id": 2014,
@@ -9799,7 +9955,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.041982",
         "floor": 12,
-        "price": 13146739.0,
+        "price": 13050777.0,
         "rooms": 2,
         "status": "free"
     },
@@ -9812,6 +9968,12 @@
                 "key": "price",
                 "value": 9698227.0,
                 "value_new": 9636019.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474109",
+                "key": "price",
+                "value": 9636019.0,
+                "value_new": 9570700.0
             }
         ],
         "block_id": 2014,
@@ -9820,7 +9982,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.041982",
         "floor": 8,
-        "price": 9636019.0,
+        "price": 9570700.0,
         "rooms": 1,
         "status": "free"
     },
@@ -10055,6 +10217,12 @@
                 "key": "price",
                 "value": 7105056.0,
                 "value_new": 7063200.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473571",
+                "key": "price",
+                "value": 7063200.0,
+                "value_new": 7019251.0
             }
         ],
         "block_id": 2014,
@@ -10063,7 +10231,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.042981",
         "floor": 9,
-        "price": 7063200.0,
+        "price": 7019251.0,
         "rooms": -1,
         "status": "free"
     },
@@ -10136,6 +10304,12 @@
                 "key": "price",
                 "value": 7075756.0,
                 "value_new": 7033900.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473522",
+                "key": "price",
+                "value": 7033900.0,
+                "value_new": 6989952.0
             }
         ],
         "block_id": 2014,
@@ -10144,7 +10318,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.042981",
         "floor": 11,
-        "price": 7033900.0,
+        "price": 6989952.0,
         "rooms": -1,
         "status": "free"
     },
@@ -10157,6 +10331,12 @@
                 "key": "price",
                 "value": 11160912.0,
                 "value_new": 11081616.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474533",
+                "key": "price",
+                "value": 11081616.0,
+                "value_new": 10998355.0
             }
         ],
         "block_id": 2014,
@@ -10165,7 +10345,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.042981",
         "floor": 9,
-        "price": 11081616.0,
+        "price": 10998355.0,
         "rooms": 1,
         "status": "free"
     },
@@ -10184,6 +10364,12 @@
                 "key": "price",
                 "value": 9822643.0,
                 "value_new": 9794649.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474159",
+                "key": "price",
+                "value": 9794649.0,
+                "value_new": 9704448.0
             }
         ],
         "block_id": 2014,
@@ -10192,7 +10378,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.042981",
         "floor": 5,
-        "price": 9794649.0,
+        "price": 9704448.0,
         "rooms": 1,
         "status": "free"
     },
@@ -10205,6 +10391,12 @@
                 "key": "price",
                 "value": 15152217.0,
                 "value_new": 15054681.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474805",
+                "key": "price",
+                "value": 15054681.0,
+                "value_new": 14952268.0
             }
         ],
         "block_id": 2014,
@@ -10213,7 +10405,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.042981",
         "floor": 12,
-        "price": 15054681.0,
+        "price": 14952268.0,
         "rooms": 2,
         "status": "free"
     },
@@ -10232,6 +10424,12 @@
                 "key": "price",
                 "value": 9440064.0,
                 "value_new": 9412070.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473942",
+                "key": "price",
+                "value": 9412070.0,
+                "value_new": 9430732.0
             }
         ],
         "block_id": 2014,
@@ -10240,7 +10438,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.043981",
         "floor": 9,
-        "price": 9412070.0,
+        "price": 9430732.0,
         "rooms": 1,
         "status": "free"
     },
@@ -10253,6 +10451,12 @@
                 "key": "price",
                 "value": 9626688.0,
                 "value_new": 9564480.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474012",
+                "key": "price",
+                "value": 9564480.0,
+                "value_new": 9499161.0
             }
         ],
         "block_id": 2014,
@@ -10261,7 +10465,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.043981",
         "floor": 9,
-        "price": 9564480.0,
+        "price": 9499161.0,
         "rooms": 1,
         "status": "free"
     },
@@ -10340,6 +10544,12 @@
                 "key": "price",
                 "value": 9399628.0,
                 "value_new": 9371635.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473902",
+                "key": "price",
+                "value": 9371635.0,
+                "value_new": 9390297.0
             }
         ],
         "block_id": 2014,
@@ -10348,7 +10558,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.043981",
         "floor": 11,
-        "price": 9371635.0,
+        "price": 9390297.0,
         "rooms": 1,
         "status": "free"
     },
@@ -11018,6 +11228,12 @@
                 "key": "price",
                 "value": 9306316.0,
                 "value_new": 9278323.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473857",
+                "key": "price",
+                "value": 9278323.0,
+                "value_new": 9188121.0
             }
         ],
         "block_id": 2014,
@@ -11026,7 +11242,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.045982",
         "floor": 4,
-        "price": 9278323.0,
+        "price": 9188121.0,
         "rooms": 1,
         "status": "free"
     },
@@ -11045,6 +11261,12 @@
                 "key": "price",
                 "value": 6645120.0,
                 "value_new": 6624000.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473354",
+                "key": "price",
+                "value": 6624000.0,
+                "value_new": 6583680.0
             }
         ],
         "block_id": 2014,
@@ -11053,7 +11275,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.045982",
         "floor": 2,
-        "price": 6624000.0,
+        "price": 6583680.0,
         "rooms": -1,
         "status": "free"
     },
@@ -11066,6 +11288,18 @@
                 "key": "price",
                 "value": 9529449.0,
                 "value_new": 9463977.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473912",
+                "key": "price",
+                "value": 9463977.0,
+                "value_new": 9395232.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473918",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
             }
         ],
         "block_id": 2014,
@@ -11074,9 +11308,9 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.045982",
         "floor": 4,
-        "price": 9463977.0,
+        "price": 9395232.0,
         "rooms": 1,
-        "status": "free"
+        "status": "reserve"
     },
     {
         "id": 892197,
@@ -11147,6 +11381,12 @@
                 "key": "price",
                 "value": 9780480.0,
                 "value_new": 9815040.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474184",
+                "key": "price",
+                "value": 9815040.0,
+                "value_new": 9742464.0
             }
         ],
         "block_id": 2014,
@@ -11155,7 +11395,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.045982",
         "floor": 2,
-        "price": 9815040.0,
+        "price": 9742464.0,
         "rooms": 1,
         "status": "free"
     },
@@ -11249,6 +11489,12 @@
                 "key": "price",
                 "value": 10132992.0,
                 "value_new": 10063872.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474313",
+                "key": "price",
+                "value": 10063872.0,
+                "value_new": 9991296.0
             }
         ],
         "block_id": 2014,
@@ -11257,7 +11503,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.045982",
         "floor": 6,
-        "price": 10063872.0,
+        "price": 9991296.0,
         "rooms": 1,
         "status": "free"
     },
@@ -11270,6 +11516,12 @@
                 "key": "price",
                 "value": 11147212.0,
                 "value_new": 11068876.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474523",
+                "key": "price",
+                "value": 11068876.0,
+                "value_new": 10986624.0
             }
         ],
         "block_id": 2014,
@@ -11278,7 +11530,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.045982",
         "floor": 6,
-        "price": 11068876.0,
+        "price": 10986624.0,
         "rooms": 1,
         "status": "free"
     },
@@ -11459,6 +11711,12 @@
                 "key": "price",
                 "value": 13640409.0,
                 "value_new": 13542873.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474679",
+                "key": "price",
+                "value": 13542873.0,
+                "value_new": 13440460.0
             }
         ],
         "block_id": 2014,
@@ -11467,7 +11725,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.046984",
         "floor": 6,
-        "price": 13542873.0,
+        "price": 13440460.0,
         "rooms": 2,
         "status": "free"
     },
@@ -11540,6 +11798,12 @@
                 "key": "price",
                 "value": 9452505.0,
                 "value_new": 9424512.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473889",
+                "key": "price",
+                "value": 9424512.0,
+                "value_new": 9334310.0
             }
         ],
         "block_id": 2014,
@@ -11548,7 +11812,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.046984",
         "floor": 7,
-        "price": 9424512.0,
+        "price": 9334310.0,
         "rooms": 1,
         "status": "free"
     },
@@ -11588,6 +11852,12 @@
                 "key": "price",
                 "value": 7079942.0,
                 "value_new": 7038086.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473538",
+                "key": "price",
+                "value": 7038086.0,
+                "value_new": 6994137.0
             }
         ],
         "block_id": 2014,
@@ -11596,7 +11866,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.046984",
         "floor": 6,
-        "price": 7038086.0,
+        "price": 6994137.0,
         "rooms": -1,
         "status": "free"
     },
@@ -11675,6 +11945,12 @@
                 "key": "price",
                 "value": 7437964.0,
                 "value_new": 7392652.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473695",
+                "key": "price",
+                "value": 7392652.0,
+                "value_new": 7345075.0
             }
         ],
         "block_id": 2014,
@@ -11683,7 +11959,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.047983",
         "floor": 12,
-        "price": 7392652.0,
+        "price": 7345075.0,
         "rooms": -1,
         "status": "free"
     },
@@ -11777,6 +12053,12 @@
                 "key": "price",
                 "value": 7544409.0,
                 "value_new": 7495641.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473746",
+                "key": "price",
+                "value": 7495641.0,
+                "value_new": 7444435.0
             }
         ],
         "block_id": 2014,
@@ -11785,7 +12067,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.047983",
         "floor": 4,
-        "price": 7495641.0,
+        "price": 7444435.0,
         "rooms": -1,
         "status": "free"
     },
@@ -11831,6 +12113,12 @@
                 "key": "price",
                 "value": 6898560.0,
                 "value_new": 6877440.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473439",
+                "key": "price",
+                "value": 6877440.0,
+                "value_new": 6837120.0
             }
         ],
         "block_id": 2014,
@@ -11839,7 +12127,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.047983",
         "floor": 7,
-        "price": 6877440.0,
+        "price": 6837120.0,
         "rooms": -1,
         "status": "free"
     },
@@ -12065,6 +12353,12 @@
                 "key": "status",
                 "value": "free",
                 "value_new": "reserve"
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473846",
+                "key": "price",
+                "value": 9107251.0,
+                "value_new": 9125913.0
             }
         ],
         "block_id": 2014,
@@ -12073,7 +12367,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.048985",
         "floor": 3,
-        "price": 9107251.0,
+        "price": 9125913.0,
         "rooms": 1,
         "status": "reserve"
     },
@@ -12254,6 +12548,12 @@
                 "key": "price",
                 "value": 10126080.0,
                 "value_new": 10056960.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474302",
+                "key": "price",
+                "value": 10056960.0,
+                "value_new": 9984384.0
             }
         ],
         "block_id": 2014,
@@ -12262,7 +12562,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.048985",
         "floor": 10,
-        "price": 10056960.0,
+        "price": 9984384.0,
         "rooms": 1,
         "status": "free"
     },
@@ -12281,6 +12581,12 @@
                 "key": "price",
                 "value": 17432150.0,
                 "value_new": 17378160.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474913",
+                "key": "price",
+                "value": 17378160.0,
+                "value_new": 17189193.0
             }
         ],
         "block_id": 2014,
@@ -12289,7 +12595,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.049983",
         "floor": 2,
-        "price": 17378160.0,
+        "price": 17189193.0,
         "rooms": 3,
         "status": "free"
     },
@@ -12356,6 +12662,12 @@
                 "key": "price",
                 "value": 15184032.0,
                 "value_new": 15077664.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474816",
+                "key": "price",
+                "value": 15077664.0,
+                "value_new": 14965977.0
             }
         ],
         "block_id": 2014,
@@ -12364,7 +12676,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.049983",
         "floor": 10,
-        "price": 15077664.0,
+        "price": 14965977.0,
         "rooms": 2,
         "status": "free"
     },
@@ -12761,6 +13073,12 @@
                 "key": "price",
                 "value": 10177920.0,
                 "value_new": 10108800.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474368",
+                "key": "price",
+                "value": 10108800.0,
+                "value_new": 10036224.0
             }
         ],
         "block_id": 2014,
@@ -12769,7 +13087,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.051982",
         "floor": 9,
-        "price": 10108800.0,
+        "price": 10036224.0,
         "rooms": 1,
         "status": "free"
     },
@@ -12836,6 +13154,12 @@
                 "key": "price",
                 "value": 13436006.0,
                 "value_new": 13344230.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474633",
+                "key": "price",
+                "value": 13344230.0,
+                "value_new": 13247865.0
             }
         ],
         "block_id": 2014,
@@ -12844,7 +13168,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.051982",
         "floor": 5,
-        "price": 13344230.0,
+        "price": 13247865.0,
         "rooms": 2,
         "status": "free"
     },
@@ -12890,6 +13214,12 @@
                 "key": "price",
                 "value": 13055136.0,
                 "value_new": 12963360.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474602",
+                "key": "price",
+                "value": 12963360.0,
+                "value_new": 12866995.0
             }
         ],
         "block_id": 2014,
@@ -12898,7 +13228,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.051982",
         "floor": 2,
-        "price": 12963360.0,
+        "price": 12866995.0,
         "rooms": 2,
         "status": "free"
     },
@@ -13148,6 +13478,12 @@
                 "key": "price",
                 "value": 7313356.0,
                 "value_new": 7268044.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473633",
+                "key": "price",
+                "value": 7268044.0,
+                "value_new": 7220467.0
             }
         ],
         "block_id": 2014,
@@ -13156,7 +13492,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.052982",
         "floor": 9,
-        "price": 7268044.0,
+        "price": 7220467.0,
         "rooms": -1,
         "status": "free"
     },
@@ -13169,6 +13505,12 @@
                 "key": "price",
                 "value": 15711129.0,
                 "value_new": 15612441.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474849",
+                "key": "price",
+                "value": 15612441.0,
+                "value_new": 15508819.0
             }
         ],
         "block_id": 2014,
@@ -13177,7 +13519,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.052982",
         "floor": 7,
-        "price": 15612441.0,
+        "price": 15508819.0,
         "rooms": 2,
         "status": "free"
     },
@@ -13190,6 +13532,12 @@
                 "key": "price",
                 "value": 14800665.0,
                 "value_new": 14694681.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474784",
+                "key": "price",
+                "value": 14694681.0,
+                "value_new": 14583398.0
             }
         ],
         "block_id": 2014,
@@ -13198,7 +13546,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.052982",
         "floor": 3,
-        "price": 14694681.0,
+        "price": 14583398.0,
         "rooms": 2,
         "status": "free"
     },
@@ -13277,6 +13625,12 @@
                 "key": "price",
                 "value": 15261696.0,
                 "value_new": 15155712.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474826",
+                "key": "price",
+                "value": 15155712.0,
+                "value_new": 15044428.0
             }
         ],
         "block_id": 2014,
@@ -13285,7 +13639,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.052982",
         "floor": 9,
-        "price": 15155712.0,
+        "price": 15044428.0,
         "rooms": 2,
         "status": "free"
     },
@@ -13298,6 +13652,12 @@
                 "key": "price",
                 "value": 14636390.0,
                 "value_new": 14530406.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474758",
+                "key": "price",
+                "value": 14530406.0,
+                "value_new": 14419123.0
             }
         ],
         "block_id": 2014,
@@ -13306,7 +13666,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.052982",
         "floor": 2,
-        "price": 14530406.0,
+        "price": 14419123.0,
         "rooms": 2,
         "status": "free"
     },
@@ -13325,6 +13685,12 @@
                 "key": "price",
                 "value": 9415180.0,
                 "value_new": 9387187.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473931",
+                "key": "price",
+                "value": 9387187.0,
+                "value_new": 9405849.0
             }
         ],
         "block_id": 2014,
@@ -13333,7 +13699,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.052982",
         "floor": 7,
-        "price": 9387187.0,
+        "price": 9405849.0,
         "rooms": 1,
         "status": "free"
     },
@@ -13352,6 +13718,12 @@
                 "key": "price",
                 "value": 9602208.0,
                 "value_new": 9573696.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473997",
+                "key": "price",
+                "value": 9573696.0,
+                "value_new": 9481824.0
             }
         ],
         "block_id": 2014,
@@ -13360,7 +13732,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.052982",
         "floor": 2,
-        "price": 9573696.0,
+        "price": 9481824.0,
         "rooms": 1,
         "status": "free"
     },
@@ -13400,6 +13772,12 @@
                 "key": "price",
                 "value": 9679564.0,
                 "value_new": 9617356.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474051",
+                "key": "price",
+                "value": 9617356.0,
+                "value_new": 9552038.0
             }
         ],
         "block_id": 2014,
@@ -13408,7 +13786,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 7,
-        "price": 9617356.0,
+        "price": 9552038.0,
         "rooms": 1,
         "status": "free"
     },
@@ -13508,6 +13886,12 @@
                 "key": "price",
                 "value": 10012032.0,
                 "value_new": 10046592.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474290",
+                "key": "price",
+                "value": 10046592.0,
+                "value_new": 9974016.0
             }
         ],
         "block_id": 2014,
@@ -13516,7 +13900,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 4,
-        "price": 10046592.0,
+        "price": 9974016.0,
         "rooms": 1,
         "status": "free"
     },
@@ -13556,6 +13940,12 @@
                 "key": "price",
                 "value": 10171008.0,
                 "value_new": 10101888.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474354",
+                "key": "price",
+                "value": 10101888.0,
+                "value_new": 10029312.0
             }
         ],
         "block_id": 2014,
@@ -13564,7 +13954,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 10,
-        "price": 10101888.0,
+        "price": 10029312.0,
         "rooms": 1,
         "status": "free"
     },
@@ -13577,6 +13967,12 @@
                 "key": "price",
                 "value": 9696403.0,
                 "value_new": 9630931.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474068",
+                "key": "price",
+                "value": 9630931.0,
+                "value_new": 9562185.0
             }
         ],
         "block_id": 2014,
@@ -13585,7 +13981,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 12,
-        "price": 9630931.0,
+        "price": 9562185.0,
         "rooms": 1,
         "status": "free"
     },
@@ -13625,6 +14021,12 @@
                 "key": "price",
                 "value": 7566355.0,
                 "value_new": 7517587.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473766",
+                "key": "price",
+                "value": 7517587.0,
+                "value_new": 7466380.0
             }
         ],
         "block_id": 2014,
@@ -13633,7 +14035,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 9,
-        "price": 7517587.0,
+        "price": 7466380.0,
         "rooms": -1,
         "status": "free"
     },
@@ -13646,6 +14048,12 @@
                 "key": "price",
                 "value": 6823680.0,
                 "value_new": 6785280.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473409",
+                "key": "price",
+                "value": 6785280.0,
+                "value_new": 6744960.0
             }
         ],
         "block_id": 2014,
@@ -13654,7 +14062,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 8,
-        "price": 6785280.0,
+        "price": 6744960.0,
         "rooms": -1,
         "status": "free"
     },
@@ -13673,6 +14081,12 @@
                 "key": "price",
                 "value": 9082368.0,
                 "value_new": 9054374.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473832",
+                "key": "price",
+                "value": 9054374.0,
+                "value_new": 8964172.0
             }
         ],
         "block_id": 2014,
@@ -13681,7 +14095,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 2,
-        "price": 9054374.0,
+        "price": 8964172.0,
         "rooms": 1,
         "status": "free"
     },
@@ -13694,6 +14108,12 @@
                 "key": "price",
                 "value": 14654784.0,
                 "value_new": 14557248.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474770",
+                "key": "price",
+                "value": 14557248.0,
+                "value_new": 14454835.0
             }
         ],
         "block_id": 2014,
@@ -13702,7 +14122,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 2,
-        "price": 14557248.0,
+        "price": 14454835.0,
         "rooms": 2,
         "status": "free"
     },
@@ -13715,6 +14135,12 @@
                 "key": "price",
                 "value": 7363200.0,
                 "value_new": 7317888.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473666",
+                "key": "price",
+                "value": 7317888.0,
+                "value_new": 7270310.0
             }
         ],
         "block_id": 2014,
@@ -13723,7 +14149,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.053981",
         "floor": 10,
-        "price": 7317888.0,
+        "price": 7270310.0,
         "rooms": -1,
         "status": "free"
     },
@@ -13763,6 +14189,12 @@
                 "key": "price",
                 "value": 10108800.0,
                 "value_new": 10039680.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474276",
+                "key": "price",
+                "value": 10039680.0,
+                "value_new": 9967104.0
             }
         ],
         "block_id": 2014,
@@ -13771,7 +14203,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.054984",
         "floor": 12,
-        "price": 10039680.0,
+        "price": 9967104.0,
         "rooms": 1,
         "status": "free"
     },
@@ -13892,6 +14324,12 @@
                 "key": "price",
                 "value": 10143360.0,
                 "value_new": 10074240.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474324",
+                "key": "price",
+                "value": 10074240.0,
+                "value_new": 10001664.0
             }
         ],
         "block_id": 2014,
@@ -13900,7 +14338,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.054984",
         "floor": 8,
-        "price": 10074240.0,
+        "price": 10001664.0,
         "rooms": 1,
         "status": "free"
     },
@@ -14015,6 +14453,12 @@
                 "key": "price",
                 "value": 10728748.0,
                 "value_new": 10649452.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474468",
+                "key": "price",
+                "value": 10649452.0,
+                "value_new": 10566192.0
             }
         ],
         "block_id": 2014,
@@ -14023,7 +14467,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.054984",
         "floor": 2,
-        "price": 10649452.0,
+        "price": 10566192.0,
         "rooms": 1,
         "status": "free"
     },
@@ -14042,6 +14486,12 @@
                 "key": "price",
                 "value": 6912000.0,
                 "value_new": 6890880.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473452",
+                "key": "price",
+                "value": 6890880.0,
+                "value_new": 6850560.0
             }
         ],
         "block_id": 2014,
@@ -14050,7 +14500,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.055982",
         "floor": 9,
-        "price": 6890880.0,
+        "price": 6850560.0,
         "rooms": -1,
         "status": "free"
     },
@@ -14171,6 +14621,12 @@
                 "key": "price",
                 "value": 7046016.0,
                 "value_new": 7000704.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473491",
+                "key": "price",
+                "value": 7000704.0,
+                "value_new": 6953126.0
             }
         ],
         "block_id": 2014,
@@ -14179,7 +14635,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.055982",
         "floor": 2,
-        "price": 7000704.0,
+        "price": 6953126.0,
         "rooms": -1,
         "status": "free"
     },
@@ -14192,6 +14648,12 @@
                 "key": "price",
                 "value": 9589363.0,
                 "value_new": 9527155.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473971",
+                "key": "price",
+                "value": 9527155.0,
+                "value_new": 9461836.0
             }
         ],
         "block_id": 2014,
@@ -14200,7 +14662,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.055982",
         "floor": 11,
-        "price": 9527155.0,
+        "price": 9461836.0,
         "rooms": 1,
         "status": "free"
     },
@@ -14240,6 +14702,12 @@
                 "key": "price",
                 "value": 7419840.0,
                 "value_new": 7374528.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473682",
+                "key": "price",
+                "value": 7374528.0,
+                "value_new": 7326950.0
             }
         ],
         "block_id": 2014,
@@ -14248,7 +14716,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.055982",
         "floor": 6,
-        "price": 7374528.0,
+        "price": 7326950.0,
         "rooms": -1,
         "status": "free"
     },
@@ -14261,6 +14729,12 @@
                 "key": "price",
                 "value": 10245312.0,
                 "value_new": 10181952.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474380",
+                "key": "price",
+                "value": 10181952.0,
+                "value_new": 10115424.0
             }
         ],
         "block_id": 2014,
@@ -14269,7 +14743,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.055982",
         "floor": 10,
-        "price": 10181952.0,
+        "price": 10115424.0,
         "rooms": 1,
         "status": "free"
     },
@@ -14282,6 +14756,12 @@
                 "key": "price",
                 "value": 9601804.0,
                 "value_new": 9539596.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473981",
+                "key": "price",
+                "value": 9539596.0,
+                "value_new": 9474278.0
             }
         ],
         "block_id": 2014,
@@ -14290,7 +14770,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.055982",
         "floor": 7,
-        "price": 9539596.0,
+        "price": 9474278.0,
         "rooms": 1,
         "status": "free"
     },
@@ -14363,6 +14843,12 @@
                 "key": "price",
                 "value": 14598720.0,
                 "value_new": 14493504.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474737",
+                "key": "price",
+                "value": 14493504.0,
+                "value_new": 14383027.0
             }
         ],
         "block_id": 2014,
@@ -14371,7 +14857,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.056981",
         "floor": 12,
-        "price": 14493504.0,
+        "price": 14383027.0,
         "rooms": 2,
         "status": "free"
     },
@@ -14498,6 +14984,12 @@
                 "key": "price",
                 "value": 9711360.0,
                 "value_new": 9642240.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474096",
+                "key": "price",
+                "value": 9642240.0,
+                "value_new": 9569664.0
             }
         ],
         "block_id": 2014,
@@ -14506,7 +14998,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.056981",
         "floor": 2,
-        "price": 9642240.0,
+        "price": 9569664.0,
         "rooms": 1,
         "status": "free"
     },
@@ -14519,6 +15011,12 @@
                 "key": "price",
                 "value": 9680035.0,
                 "value_new": 9614563.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474035",
+                "key": "price",
+                "value": 9614563.0,
+                "value_new": 9545817.0
             }
         ],
         "block_id": 2014,
@@ -14527,7 +15025,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.056981",
         "floor": 7,
-        "price": 9614563.0,
+        "price": 9545817.0,
         "rooms": 1,
         "status": "free"
     },
@@ -14573,6 +15071,12 @@
                 "key": "price",
                 "value": 6854400.0,
                 "value_new": 6892800.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473477",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "free"
             }
         ],
         "block_id": 2014,
@@ -14583,7 +15087,7 @@
         "floor": 4,
         "price": 6892800.0,
         "rooms": -1,
-        "status": "reserve"
+        "status": "free"
     },
     {
         "id": 892156,
@@ -14675,6 +15179,12 @@
                 "key": "price",
                 "value": 9897753.0,
                 "value_new": 9828441.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474199",
+                "key": "price",
+                "value": 9828441.0,
+                "value_new": 9755664.0
             }
         ],
         "block_id": 2014,
@@ -14683,7 +15193,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.056981",
         "floor": 2,
-        "price": 9828441.0,
+        "price": 9755664.0,
         "rooms": 1,
         "status": "free"
     },
@@ -14717,6 +15227,12 @@
                 "key": "price",
                 "value": 7444761.0,
                 "value_new": 7399449.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473707",
+                "key": "price",
+                "value": 7399449.0,
+                "value_new": 7351872.0
             }
         ],
         "block_id": 2014,
@@ -14725,7 +15241,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.057982",
         "floor": 9,
-        "price": 7399449.0,
+        "price": 7351872.0,
         "rooms": -1,
         "status": "free"
     },
@@ -14798,6 +15314,12 @@
                 "key": "price",
                 "value": 18147523.0,
                 "value_new": 18093532.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474965",
+                "key": "price",
+                "value": 18093532.0,
+                "value_new": 17904566.0
             }
         ],
         "block_id": 2014,
@@ -14806,7 +15328,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.057982",
         "floor": 10,
-        "price": 18093532.0,
+        "price": 17904566.0,
         "rooms": 3,
         "status": "free"
     },
@@ -14873,6 +15395,12 @@
                 "key": "price",
                 "value": 10157184.0,
                 "value_new": 10088064.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474345",
+                "key": "price",
+                "value": 10088064.0,
+                "value_new": 10015488.0
             }
         ],
         "block_id": 2014,
@@ -14881,7 +15409,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.057982",
         "floor": 12,
-        "price": 10088064.0,
+        "price": 10015488.0,
         "rooms": 1,
         "status": "free"
     },
@@ -15251,6 +15779,12 @@
                 "key": "price",
                 "value": 7295232.0,
                 "value_new": 7249920.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.473605",
+                "key": "price",
+                "value": 7249920.0,
+                "value_new": 7202342.0
             }
         ],
         "block_id": 2014,
@@ -15259,7 +15793,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-08T01:40:55.088777",
         "floor": 7,
-        "price": 7249920.0,
+        "price": 7202342.0,
         "rooms": -1,
         "status": "free"
     },
@@ -15380,6 +15914,12 @@
                 "key": "price",
                 "value": 10296297.0,
                 "value_new": 10226985.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474403",
+                "key": "price",
+                "value": 10226985.0,
+                "value_new": 10154208.0
             }
         ],
         "block_id": 2014,
@@ -15388,7 +15928,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-08T01:40:55.088777",
         "floor": 12,
-        "price": 10226985.0,
+        "price": 10154208.0,
         "rooms": 1,
         "status": "free"
     },
@@ -15455,6 +15995,12 @@
                 "key": "price",
                 "value": 14603980.0,
                 "value_new": 14498764.0
+            },
+            {
+                "created_at": "2023-12-19T06:00:21.474747",
+                "key": "price",
+                "value": 14498764.0,
+                "value_new": 14388288.0
             }
         ],
         "block_id": 2014,
@@ -15463,7 +16009,7 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-08T01:40:55.089778",
         "floor": 7,
-        "price": 14498764.0,
+        "price": 14388288.0,
         "rooms": 2,
         "status": "free"
     },
@@ -15849,14 +16395,21 @@
     {
         "id": 892762,
         "area": 36.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-19T06:00:21.474413",
+                "key": "price",
+                "value": 10278144.0,
+                "value_new": 10205568.0
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-12T12:30:28.223362",
         "floor": 10,
-        "price": 10278144.0,
+        "price": 10205568.0,
         "rooms": 1,
         "status": "free"
     },
