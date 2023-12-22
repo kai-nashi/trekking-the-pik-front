@@ -1882,6 +1882,12 @@
                 "key": "status",
                 "value": "free",
                 "value_new": "reserve"
+            },
+            {
+                "created_at": "2023-12-22T00:00:27.951006",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "sold"
             }
         ],
         "block_id": 1724,
@@ -1892,7 +1898,7 @@
         "floor": 11,
         "price": 10709934.0,
         "rooms": 1,
-        "status": "reserve"
+        "status": "sold"
     },
     {
         "id": 902018,
@@ -1978,6 +1984,12 @@
                 "key": "status",
                 "value": "sold",
                 "value_new": "free"
+            },
+            {
+                "created_at": "2023-12-22T00:00:27.950983",
+                "key": "status",
+                "value": "free",
+                "value_new": "sold"
             }
         ],
         "block_id": 1724,
@@ -1988,7 +2000,7 @@
         "floor": 4,
         "price": 10585319.0,
         "rooms": 1,
-        "status": "free"
+        "status": "sold"
     },
     {
         "id": 902175,
@@ -7083,6 +7095,12 @@
                 "key": "price",
                 "value": 11308195.0,
                 "value_new": 11218886.0
+            },
+            {
+                "created_at": "2023-12-22T00:00:27.950593",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
             }
         ],
         "block_id": 2014,
@@ -7093,7 +7111,7 @@
         "floor": 12,
         "price": 11218886.0,
         "rooms": 1,
-        "status": "free"
+        "status": "reserve"
     },
     {
         "id": 892170,
@@ -16464,7 +16482,14 @@
     {
         "id": 892462,
         "area": 20.0,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2023-12-22T00:00:27.949866",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
+            }
+        ],
         "block_id": 2014,
         "block_name": "Витебский парк",
         "block_slug": "vitpark",
@@ -16473,7 +16498,7 @@
         "floor": 10,
         "price": 7004160.0,
         "rooms": -1,
-        "status": "free"
+        "status": "reserve"
     },
     {
         "id": 892134,
