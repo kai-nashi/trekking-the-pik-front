@@ -15827,6 +15827,18 @@
                 "key": "status",
                 "value": "reserve",
                 "value_new": "sold"
+            },
+            {
+                "created_at": "2023-12-22T18:00:28.905806",
+                "key": "price",
+                "value": 12657792.0,
+                "value_new": 12794880.0
+            },
+            {
+                "created_at": "2023-12-22T18:00:28.905814",
+                "key": "status",
+                "value": "sold",
+                "value_new": "free"
             }
         ],
         "block_id": 2014,
@@ -15835,9 +15847,9 @@
         "bulk_name": "Корпус 5",
         "created_at": "2023-12-06T23:59:44.050983",
         "floor": 2,
-        "price": 12657792.0,
+        "price": 12794880.0,
         "rooms": 2,
-        "status": "sold"
+        "status": "free"
     },
     {
         "id": 788162,
@@ -17207,6 +17219,12 @@
                 "key": "price",
                 "value": 6766080.0,
                 "value_new": 6729600.0
+            },
+            {
+                "created_at": "2023-12-22T18:00:28.905061",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
             }
         ],
         "block_id": 2014,
@@ -17217,7 +17235,7 @@
         "floor": 14,
         "price": 6729600.0,
         "rooms": -1,
-        "status": "free"
+        "status": "reserve"
     },
     {
         "id": 892339,
@@ -20297,6 +20315,90 @@
         "created_at": "2023-12-12T12:30:28.223898",
         "floor": 9,
         "price": 16074182.0,
+        "rooms": 2,
+        "status": "free"
+    },
+    {
+        "id": 902144,
+        "area": 24.3,
+        "changelog": [],
+        "block_id": 1724,
+        "block_name": "Аэронавт",
+        "block_slug": "aeronaut",
+        "bulk_name": "Корпус 1",
+        "created_at": "2023-12-22T18:00:26.113018",
+        "floor": 2,
+        "price": 7858620.0,
+        "rooms": -1,
+        "status": "free"
+    },
+    {
+        "id": 902087,
+        "area": 24.3,
+        "changelog": [],
+        "block_id": 1724,
+        "block_name": "Аэронавт",
+        "block_slug": "aeronaut",
+        "bulk_name": "Корпус 1",
+        "created_at": "2023-12-22T18:00:26.113111",
+        "floor": 9,
+        "price": 8120574.0,
+        "rooms": -1,
+        "status": "free"
+    },
+    {
+        "id": 902230,
+        "area": 53.3,
+        "changelog": [],
+        "block_id": 1724,
+        "block_name": "Аэронавт",
+        "block_slug": "aeronaut",
+        "bulk_name": "Корпус 1",
+        "created_at": "2023-12-22T18:00:26.113594",
+        "floor": 10,
+        "price": 14771775.0,
+        "rooms": 2,
+        "status": "free"
+    },
+    {
+        "id": 902516,
+        "area": 76.3,
+        "changelog": [],
+        "block_id": 1724,
+        "block_name": "Аэронавт",
+        "block_slug": "aeronaut",
+        "bulk_name": "Корпус 1",
+        "created_at": "2023-12-22T18:00:26.113846",
+        "floor": 10,
+        "price": 19291692.0,
+        "rooms": 3,
+        "status": "free"
+    },
+    {
+        "id": 892334,
+        "area": 24.2,
+        "changelog": [],
+        "block_id": 2014,
+        "block_name": "Витебский парк",
+        "block_slug": "vitpark",
+        "bulk_name": "Корпус 5",
+        "created_at": "2023-12-22T18:00:28.905231",
+        "floor": 8,
+        "price": 7332019.0,
+        "rooms": -1,
+        "status": "free"
+    },
+    {
+        "id": 892414,
+        "area": 55.4,
+        "changelog": [],
+        "block_id": 2014,
+        "block_name": "Витебский парк",
+        "block_slug": "vitpark",
+        "bulk_name": "Корпус 5",
+        "created_at": "2023-12-22T18:00:28.905927",
+        "floor": 14,
+        "price": 14625600.0,
         "rooms": 2,
         "status": "free"
     }
