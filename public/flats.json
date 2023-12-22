@@ -8261,6 +8261,12 @@
                 "key": "price",
                 "value": 10970428.0,
                 "value_new": 11083525.0
+            },
+            {
+                "created_at": "2023-12-22T12:00:30.675960",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "sold"
             }
         ],
         "block_id": 1724,
@@ -8271,7 +8277,7 @@
         "floor": 12,
         "price": 11083525.0,
         "rooms": 1,
-        "status": "reserve"
+        "status": "sold"
     },
     {
         "id": 792149,
@@ -9254,6 +9260,12 @@
                 "key": "price",
                 "value": 18142790.0,
                 "value_new": 17993203.0
+            },
+            {
+                "created_at": "2023-12-22T12:00:30.675817",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "free"
             }
         ],
         "block_id": 2014,
@@ -9264,7 +9276,7 @@
         "floor": 5,
         "price": 17993203.0,
         "rooms": 3,
-        "status": "reserve"
+        "status": "free"
     },
     {
         "id": 892172,
@@ -19859,6 +19871,12 @@
                 "key": "price",
                 "value": 10928505.0,
                 "value_new": 11041170.0
+            },
+            {
+                "created_at": "2023-12-22T12:00:27.905061",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "free"
             }
         ],
         "block_id": 1724,
@@ -19869,7 +19887,7 @@
         "floor": 12,
         "price": 11041170.0,
         "rooms": 1,
-        "status": "reserve"
+        "status": "free"
     },
     {
         "id": 902167,
