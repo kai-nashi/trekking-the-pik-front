@@ -9692,6 +9692,12 @@
                 "key": "status",
                 "value": "free",
                 "value_new": "reserve"
+            },
+            {
+                "created_at": "2024-01-08T18:00:27.500715",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "sold"
             }
         ],
         "block_id": 2014,
@@ -9702,7 +9708,7 @@
         "floor": 5,
         "price": 18065474.0,
         "rooms": 3,
-        "status": "reserve"
+        "status": "sold"
     },
     {
         "id": 892172,
