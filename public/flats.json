@@ -15536,6 +15536,12 @@
                 "key": "status",
                 "value": "sold",
                 "value_new": "free"
+            },
+            {
+                "created_at": "2024-01-09T00:00:23.526347",
+                "key": "status",
+                "value": "free",
+                "value_new": "sold"
             }
         ],
         "block_id": 2014,
@@ -15546,7 +15552,7 @@
         "floor": 2,
         "price": 9721728.0,
         "rooms": 1,
-        "status": "free"
+        "status": "sold"
     },
     {
         "id": 892234,
