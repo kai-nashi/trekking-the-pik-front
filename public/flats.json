@@ -10991,6 +10991,12 @@
                 "key": "price",
                 "value": 14579712.0,
                 "value_new": 14644672.0
+            },
+            {
+                "created_at": "2024-01-10T12:00:36.679025",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
             }
         ],
         "block_id": 2014,
@@ -11001,7 +11007,7 @@
         "floor": 9,
         "price": 14644672.0,
         "rooms": 2,
-        "status": "free"
+        "status": "reserve"
     },
     {
         "id": 788225,
@@ -11261,6 +11267,12 @@
                 "key": "price",
                 "value": 13808361.0,
                 "value_new": 13874443.0
+            },
+            {
+                "created_at": "2024-01-10T12:00:36.679326",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "sold"
             }
         ],
         "block_id": 2014,
@@ -11271,7 +11283,7 @@
         "floor": 12,
         "price": 13874443.0,
         "rooms": 2,
-        "status": "reserve"
+        "status": "sold"
     },
     {
         "id": 892485,
