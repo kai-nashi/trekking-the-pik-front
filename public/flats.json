@@ -10997,6 +10997,12 @@
                 "key": "status",
                 "value": "free",
                 "value_new": "reserve"
+            },
+            {
+                "created_at": "2024-01-11T12:00:36.228416",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "sold"
             }
         ],
         "block_id": 2014,
@@ -11007,7 +11013,7 @@
         "floor": 9,
         "price": 14644672.0,
         "rooms": 2,
-        "status": "reserve"
+        "status": "sold"
     },
     {
         "id": 788225,
@@ -12287,6 +12293,12 @@
                 "key": "status",
                 "value": "free",
                 "value_new": "reserve"
+            },
+            {
+                "created_at": "2024-01-11T12:00:36.227561",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "free"
             }
         ],
         "block_id": 2014,
@@ -12297,7 +12309,7 @@
         "floor": 2,
         "price": 9568080.0,
         "rooms": 1,
-        "status": "reserve"
+        "status": "free"
     },
     {
         "id": 892342,
@@ -12893,6 +12905,12 @@
                 "key": "status",
                 "value": "free",
                 "value_new": "reserve"
+            },
+            {
+                "created_at": "2024-01-11T12:00:36.228360",
+                "key": "status",
+                "value": "reserve",
+                "value_new": "sold"
             }
         ],
         "block_id": 2014,
@@ -12903,7 +12921,7 @@
         "floor": 4,
         "price": 9692026.0,
         "rooms": 1,
-        "status": "reserve"
+        "status": "sold"
     },
     {
         "id": 892736,
@@ -23217,7 +23235,14 @@
     {
         "id": 901941,
         "area": 35.5,
-        "changelog": [],
+        "changelog": [
+            {
+                "created_at": "2024-01-11T12:00:32.570412",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
+            }
+        ],
         "block_id": 1724,
         "block_name": "Аэронавт",
         "block_slug": "aeronaut",
@@ -23226,7 +23251,7 @@
         "floor": 10,
         "price": 10457874.0,
         "rooms": 1,
-        "status": "free"
+        "status": "reserve"
     },
     {
         "id": 902005,
@@ -23279,6 +23304,12 @@
                 "key": "price",
                 "value": 12982233.0,
                 "value_new": 13043590.0
+            },
+            {
+                "created_at": "2024-01-11T12:00:36.227990",
+                "key": "status",
+                "value": "free",
+                "value_new": "reserve"
             }
         ],
         "block_id": 2014,
@@ -23289,6 +23320,6 @@
         "floor": 9,
         "price": 13043590.0,
         "rooms": 2,
-        "status": "free"
+        "status": "reserve"
     }
 ]
