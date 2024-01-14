@@ -701,6 +701,18 @@
                 "key": "status",
                 "value": "reserve",
                 "value_new": "sold"
+            },
+            {
+                "created_at": "2024-01-14T06:00:35.373860",
+                "key": "price",
+                "value": 18339925.0,
+                "value_new": 18968180.0
+            },
+            {
+                "created_at": "2024-01-14T06:00:35.373881",
+                "key": "status",
+                "value": "sold",
+                "value_new": "free"
             }
         ],
         "block_id": 1724,
@@ -709,9 +721,9 @@
         "bulk_name": "Корпус 1",
         "created_at": "2023-12-06T23:59:43.206389",
         "floor": 2,
-        "price": 18339925.0,
+        "price": 18968180.0,
         "rooms": 3,
-        "status": "sold"
+        "status": "free"
     },
     {
         "id": 901972,
