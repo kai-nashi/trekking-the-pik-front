@@ -15860,6 +15860,12 @@
                 "key": "status",
                 "value": "free",
                 "value_new": "sold"
+            },
+            {
+                "created_at": "2024-01-17T12:00:26.766467",
+                "key": "status",
+                "value": "sold",
+                "value_new": "free"
             }
         ],
         "block_id": 2014,
@@ -15870,7 +15876,7 @@
         "floor": 9,
         "price": 9747896.0,
         "rooms": 1,
-        "status": "sold"
+        "status": "free"
     },
     {
         "id": 788245,
@@ -17630,6 +17636,12 @@
                 "key": "price",
                 "value": 9846360.0,
                 "value_new": 9747896.0
+            },
+            {
+                "created_at": "2024-01-17T12:00:26.767176",
+                "key": "status",
+                "value": "free",
+                "value_new": "sold"
             }
         ],
         "block_id": 2014,
@@ -17640,7 +17652,7 @@
         "floor": 6,
         "price": 9747896.0,
         "rooms": 1,
-        "status": "free"
+        "status": "sold"
     },
     {
         "id": 892788,
